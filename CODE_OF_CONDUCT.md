@@ -39,6 +39,7 @@ Remember that the use of the scraper must be responsible and ethical. By followi
 you contribute to ensure a proper use of the tool and to maintain an environment of respect 
 and compliance with the rules in the repository "**Bogotá Apartments**".
 
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
