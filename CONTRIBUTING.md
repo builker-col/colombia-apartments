@@ -4,6 +4,20 @@
 
 Antes de comenzar, asegúrate de haber leído el archivo [README.md](./README.md) para obtener una comprensión general del proyecto, su alcance y los requisitos previos para contribuir.
 
+## Agregar una nueva ciudad
+
+Para agregar una nueva ciudad, debes seguir los siguientes pasos:
+
+1. Agregar la ciudad en el archivo `ciudades.yml` en la sección `colombia` de la siguiente manera:
+
+```yml
+colombia:
+    - 'ciudad1'
+    - 'ciudad2'
+```
+
+debes tener en cuenta que el nombre de la ciudad debe ser el mismo que aparece en la url de la página web de [Metrocuadrado](https://www.metrocuadrado.com/).
+
 ## Cómo contribuir
 
 Hay muchas formas en que puedes contribuir al proyecto:
