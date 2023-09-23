@@ -2,19 +2,16 @@
 
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/U6U0K5UNW)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erik172) 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/builker-col/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/builker-col/colombia-apartments)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik172/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Erik172)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets/erik172/)
 
-![Colombia Apartments](https://i.ibb.co/17hC0QV/colombia-apartments02.png)
+![Colombia Apartments](/.github/colombia-apartments.png)
 __Image generated with [dall-e](https://openai.com/blog/dall-e/)__
-
-
 
 La última fecha de scrapeo fue: **24 September 2023**
 
-Ultima version de los datos: **V0.1.0 SEPTEMBER.1 2023**
+Ultima version de los datos: **V0.1.0 SEPTEMBER.2 2023**
 
 Ultima version del scraper: **V0.1.0**
 
@@ -27,6 +24,7 @@ Ultima version del scraper: **V0.1.0**
     - [Apartamentos](#apartamentos)
     - [Imagenes](#imagenes)
 - [Actualización de los datos](#actualización-de-los-datos)
+- [MongoDB Dashboard](#mongodb-dashboard)
 - [Como Contribuir](#como-contribuir)
 - [Mantenimiento](#mantenimiento)
 - [Licencia](#licencia)
@@ -113,6 +111,10 @@ Los datos extraídos mediante web scraping serán actualizados regularmente para
 - Se implementará un proceso automatizado para la actualización de los datos, utilizando herramientas y scripts específicos para realizar el web scraping de las fuentes de origen de manera eficiente y precisa.
 - Después de cada actualización, se realizará un análisis y verificación de los datos para garantizar su integridad y confiabilidad.
 - Se publicará la fecha de la última actualización en este README para que los usuarios puedan verificar la frescura de los datos.
+
+## MongoDB Dashboard
+
+[MonogoDB Dashboard](https://charts.mongodb.com/charts-project-0-vjiwc/public/dashboards/c0144208-93e3-46b2-b665-e2e8033373a8)
 
 ## Como Contribuir
 El proyecto es de código abierto y se anima a cualquier persona interesada en contribuir a hacerlo. Para contribuir al proyecto, por favor sigue estos pasos:
