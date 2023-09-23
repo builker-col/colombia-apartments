@@ -72,9 +72,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   # 'colombia_apartments.pipelines.ColombiaApartmentsPipeline': 300,
-   'colombia_apartments.pipelines.JSONPipeline': 400,
-   'colombia_apartments.pipelines.MongoDBPipeline': 500,
+   'colombia_apartments.pipelines.MongoDBPipeline': 500 # uncomment if you want to use MongoDB
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
