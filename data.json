@@ -1,0 +1,2225 @@
+[
+    {
+        "data": {
+            "propertyId": "9947-M4473073",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 260000000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 64,
+            "areac": 64,
+            "areaPrivada": null,
+            "rooms": "2",
+            "bathrooms": "2",
+            "garages": "1",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "BR SANTA RITA",
+            "commonNeighborhood": "Santa Rita",
+            "comment": "Se vende apto de 64mt2 en el centro de Chía sector Santa Rita, piso 4, edificio Suyana. Cocina integral tipo americano con extractor digital y horno, 2 habitaciones con closet, 2 baños enchapados con extractor, sala-comedor, zona de ropa y lavadero. Cuenta con parqueadero privado cubierto y bodega en el primer piso. Excelente estado, buena ubicación y hermosa vista.El edificio cuenta con parqueadero para visitantes, ascensor, vigilancia privada, cámaras de seguridad, terraza, BBQ, salón para eventos y shut de basura.",
+            "detail": {
+                "firstImage": "9947-M4473073_1",
+                "adminPrice": null,
+                "urlDetail": "/inmueble/venta-apartamento-chia-br-santa-rita-2-habitaciones-2-banos-1-garajes/9947-M4473073",
+                "micrositeId": null
+            },
+            "companyId": "4820",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "KW RED Keller Williams ",
+            "companyAddress": "CRA 59 # 10-10",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/4820/company4820.jpeg",
+            "companyLink": null,
+            "companySeoUrl": "kw-red-keller-williams-",
+            "contactPhone": "3204784521",
+            "whatsapp": "3204784521",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.05342,
+                "lat": 4.860804
+            },
+            "title": "Apartamento en Venta, Santa Rita, Chía",
+            "shortTitle": "Apartamento en Venta, Santa Rita",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-br-santa-rita-2-habitaciones-2-banos-1-garajes/9947-M4473073",
+            "imageLink": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_1_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 9947-M4473073 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Santa Rita, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "9947-M4473073_1",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_1_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_1_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_2",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_2_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_2_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_3",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_3_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_3_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_4",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_4_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_4_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_5",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_5_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_5_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_6",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_6_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_6_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_7",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_7_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_7_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_8",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_8_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_8_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_9",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_9_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_9_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_10",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_10_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_10_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_11",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_11_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_11_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_12",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_12_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_12_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_13",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_13_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_13_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_14",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_14_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_14_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_15",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_15_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_15_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_16",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_16_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_16_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_17",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_17_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_17_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_18",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_18_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_18_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_19",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_19_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_19_x.jpg"
+                },
+                {
+                    "id": "9947-M4473073_20",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_20_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4473073/9947-M4473073_20_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Cocina tipo americano",
+                        "Cocina integral",
+                        "Piso 1"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 5 y 10 años",
+            "stratum": "4",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Santa rita, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Santa rita",
+                        "url": "/apartamentos/venta/chia/santa-rita/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Santa rita - Chía - 9947-M4473073",
+            "descriptionSeo": "Apartamento en venta en Santa rita, Chía, 2 habitaciones, 2 baños, 1 garajes, Estrato 4, al mejor precio, vea las fotos. 9947-M4473073",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-br-santa-rita-2-habitaciones-2-banos-1-garajes/9947-M4473073",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": "6023333000",
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "790-M4480318",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 180000000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 40,
+            "areac": 41.9,
+            "areaPrivada": null,
+            "rooms": "2",
+            "bathrooms": "1",
+            "garages": "0",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "LA SIATA",
+            "commonNeighborhood": "Vereda La Balsa 1",
+            "comment": "Apartamento en edificio en construcción, para estrenar, en segundo piso sin ascensor, si lo desea con parqueadero, este tiene un costo de 20 millones adicionales, se entrega en obra blanca, con dos habitaciones, un baño, espacio  de sala comedor, zona de lavandería, construcción tradicional, si desea conocer este inmueble, contacte a Carolina Gaitán\n",
+            "detail": {
+                "firstImage": "790-M4480318_29",
+                "adminPrice": 100000,
+                "urlDetail": "/inmueble/venta-apartamento-chia-la-siata-2-habitaciones-1-banos/790-M4480318",
+                "micrositeId": null
+            },
+            "companyId": "2932",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "Inmobiliaria Abadia  C.G",
+            "companyAddress": "carrera 1a",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/2932/company2932.jpeg",
+            "companyLink": "http://www.metrocuadrado.com/web/micrositios/258402/index.html",
+            "companySeoUrl": "inmobiliaria-abadia-c.g",
+            "contactPhone": "3132930079",
+            "whatsapp": "3132930079",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.06458,
+                "lat": 4.8518996
+            },
+            "title": "Apartamento en Venta, Vereda La Balsa 1, Chía",
+            "shortTitle": "Apartamento en Venta, Vereda La Balsa 1",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-la-siata-2-habitaciones-1-banos/790-M4480318",
+            "imageLink": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_29_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 790-M4480318 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Vereda La Balsa 1, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "790-M4480318_29",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_29_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_29_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_30",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_30_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_30_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_31",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_31_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_31_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_32",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_32_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_32_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_33",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_33_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_33_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_34",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_34_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_34_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_35",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_35_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_35_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_36",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_36_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_36_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_37",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_37_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_37_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_38",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_38_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_38_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_39",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_39_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_39_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_40",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_40_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_40_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_41",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_41_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_41_x.jpg"
+                },
+                {
+                    "id": "790-M4480318_42",
+                    "image": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_42_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/790-M4480318/790-M4480318_42_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Hall de alcobas",
+                        "Vigilancia",
+                        "Zona de lavandería",
+                        "Piso 3"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Conjunto cerrado",
+                        "Portería"
+                    ]
+                },
+                {
+                    "title": "Zonas comunes",
+                    "items": [
+                        "Salón comunal"
+                    ]
+                },
+                {
+                    "title": "Del sector",
+                    "items": [
+                        "Cerca colegios / universidades",
+                        "Cerca parques",
+                        "Cerca transporte público",
+                        "Zona comercial",
+                        "Zona residencial"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 0 y 5 años",
+            "stratum": "3",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Vereda la balsa 1, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Vereda la balsa 1",
+                        "url": "/apartamentos/venta/chia/vereda-la-balsa-1/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Vereda la balsa 1 - Chía - 790-M4480318",
+            "descriptionSeo": "Apartamento en venta en Vereda la balsa 1, Chía, 2 habitaciones, 1 baños, Estrato 3, al mejor precio, vea las fotos. 790-M4480318",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-la-siata-2-habitaciones-1-banos/790-M4480318",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": null,
+            "mcontactosucursalCelular1": "3132930079W",
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "34-M4012993",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 190339285,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 51,
+            "areac": 51,
+            "areaPrivada": null,
+            "rooms": "3",
+            "bathrooms": "2",
+            "garages": "0",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "20 DE JULIO SECTOR I",
+            "commonNeighborhood": "20 De Julio",
+            "comment": "Apartamento en venta de 51 m2, con vista interior, ubicado en un primer piso Consta de 3 habitaciones, 2 baños, sala comedor, cocina y zona de lavanderia. Estado en obra gris. El conjunto cuenta con zona social, salon comunal, parque infantil y vigilancia privada. Cerca a centro comercial centro chia cerca a tiendas y supermercado de barrio cerca a colegio Liceo Campestre C E A M  cerca a universidad de la sabana.",
+            "detail": {
+                "firstImage": "34-M4012993_35",
+                "adminPrice": 108500,
+                "urlDetail": "/inmueble/venta-apartamento-chia-20-de-julio-sector-i-3-habitaciones-2-banos/34-M4012993",
+                "micrositeId": null
+            },
+            "companyId": "3732",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "Julio Corredor Y Cía. Ltda.",
+            "companyAddress": "Calle 81 # 8 - 95",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/3732/company3732.png",
+            "companyLink": "https://juliocorredorycia.co/",
+            "companySeoUrl": "julio-corredor-y-cia.-ltda.",
+            "contactPhone": "3182152607",
+            "whatsapp": "3125366017",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.0482,
+                "lat": 4.86026
+            },
+            "title": "Apartamento en Venta, 20 De Julio, Chía",
+            "shortTitle": "Apartamento en Venta, 20 De Julio",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-20-de-julio-sector-i-3-habitaciones-2-banos/34-M4012993",
+            "imageLink": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_35_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 34-M4012993 que encontre en www.metrocuadrado.com  - Apartamento en Venta, 20 De Julio, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "34-M4012993_35",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_35_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_35_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_36",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_36_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_36_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_37",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_37_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_37_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_38",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_38_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_38_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_39",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_39_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_39_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_40",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_40_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_40_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_41",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_41_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_41_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_42",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_42_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_42_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_43",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_43_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_43_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_44",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_44_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_44_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_45",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_45_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_45_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_46",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_46_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_46_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_47",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_47_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_47_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_48",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_48_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_48_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_49",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_49_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_49_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_50",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_50_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_50_x.jpg"
+                },
+                {
+                    "id": "34-M4012993_51",
+                    "image": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_51_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/34-M4012993/34-M4012993_51_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Vigilancia",
+                        "Calentador no tiene",
+                        "Tipo de comedor sala comedor",
+                        "Tipo acabado de piso otro",
+                        "Tipo de piso en alcobas otro",
+                        "Tipo de piso en comedor otro",
+                        "Tipo de piso en estudio otro",
+                        "Tipo de piso en sala otro"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Vigilancia 24hrs"
+                    ]
+                },
+                {
+                    "title": "Zonas comunes",
+                    "items": [
+                        "Salón comunal",
+                        "Zona para niños"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 0 y 5 años",
+            "stratum": "3",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en 20 de julio, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "20 de julio",
+                        "url": "/apartamentos/venta/chia/20-de-julio/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en 20 de julio - Chía - 34-M4012993",
+            "descriptionSeo": "Apartamento en venta en 20 de julio, Chía, 3 habitaciones, 2 baños, Estrato 3, al mejor precio, vea las fotos. 34-M4012993",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-20-de-julio-sector-i-3-habitaciones-2-banos/34-M4012993",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": "6014853000",
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "5035-M4577569",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 202500000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 45,
+            "areac": 45,
+            "areaPrivada": null,
+            "rooms": "1",
+            "bathrooms": "1",
+            "garages": "0",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "LA LORENA",
+            "commonNeighborhood": "Norte",
+            "comment": "En venta apartaestudio para estrenar en chía, excelente ubicación  Cra 12  3-41 Tercer piso con ascensor 45 m2, Sala comedor-amplia, con balcón, cocina integral abierta, habitación  con closet, baño y zona de lavado. Excelentes acabados. Precio 202.500.000 Negociables\n\nMAS INFORMACION AL +57 315 3335621\n",
+            "detail": {
+                "firstImage": "5035-M4577569_1",
+                "adminPrice": null,
+                "urlDetail": "/inmueble/venta-apartamento-chia-la-lorena-1-habitaciones-1-banos/5035-M4577569",
+                "micrositeId": null
+            },
+            "companyId": "3570",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "L.A Soluciones Inmobiliarias y Jurídicas SAS",
+            "companyAddress": "Calle 151 G #117 - 20 Apto 201",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/3570/company3570.png",
+            "companyLink": null,
+            "companySeoUrl": "l.a-soluciones-inmobiliarias-y-juridicas-sas",
+            "contactPhone": "3153335621",
+            "whatsapp": "3023346747",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.050766,
+                "lat": 4.865313
+            },
+            "title": "Apartamento en Venta, Norte, Chía",
+            "shortTitle": "Apartamento en Venta, Norte",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-la-lorena-1-habitaciones-1-banos/5035-M4577569",
+            "imageLink": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_1_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 5035-M4577569 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Norte, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "5035-M4577569_1",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_1_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_1_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_2",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_2_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_2_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_3",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_3_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_3_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_4",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_4_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_4_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_5",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_5_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_5_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_6",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_6_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_6_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_7",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_7_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_7_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_8",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_8_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_8_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_9",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_9_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_9_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_10",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_10_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_10_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_11",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_11_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_11_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_12",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_12_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_12_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_13",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_13_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_13_x.jpg"
+                },
+                {
+                    "id": "5035-M4577569_14",
+                    "image": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_14_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/5035-M4577569/5035-M4577569_14_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Calefacción",
+                        "Cocina integral",
+                        "Zona de lavandería",
+                        "Piso 3"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Ascensor"
+                    ]
+                },
+                {
+                    "title": "Del sector",
+                    "items": [
+                        "Cerca colegios / universidades"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 0 y 5 años",
+            "stratum": "3",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": "https://youtu.be/BMZWvaUo1ZE",
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Norte, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Norte",
+                        "url": "/apartamentos/venta/chia/norte/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Norte - Chía - 5035-M4577569",
+            "descriptionSeo": "Apartamento en venta en Norte, Chía, 1 habitaciones, 1 baños, Estrato 3, al mejor precio, vea las fotos. 5035-M4577569",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-la-lorena-1-habitaciones-1-banos/5035-M4577569",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": null,
+            "mcontactosucursalCelular1": "3153335621",
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "407-M4544322",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 249900000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 76,
+            "areac": 76,
+            "areaPrivada": null,
+            "rooms": "2",
+            "bathrooms": "2",
+            "garages": "1",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "AVD CHILACOS",
+            "commonNeighborhood": "Avd Chilacos",
+            "comment": "DALA Inmobiliaria vende apartamento en el primer piso que es un verdadero sueño. disfruta de la sala y comedor con una acogedora chimenea, una habitación auxiliar, baño completo y la habitación principal te esperan con vestier y baño propio, También tienes una cocina tipo americano, un baño social, patio cubierto, un garaje descubierto para tu comodidad, cerca de la avenida chilacos, cerca de centros comerciales, universidades, colegios y transporte público.\n\nContáctanos hoy y haz este paraíso tuyo, te esperamos con los brazos abiertos cod 1511 S\n",
+            "detail": {
+                "firstImage": "407-M4544322_1",
+                "adminPrice": null,
+                "urlDetail": "/inmueble/venta-apartamento-chia-avd-chilacos-2-habitaciones-2-banos-1-garajes/407-M4544322",
+                "micrositeId": null
+            },
+            "companyId": "4257",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "DALA Inmobiliaria",
+            "companyAddress": "DALA Inmobiliaria",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/4257/company4257.jpeg",
+            "companyLink": "http://www.dalainmobiliaria.co",
+            "companySeoUrl": "dala-inmobiliaria",
+            "contactPhone": "3122053055",
+            "whatsapp": "3122053055",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.05246,
+                "lat": 4.867239
+            },
+            "title": "Apartamento en Venta, Avd Chilacos, Chía",
+            "shortTitle": "Apartamento en Venta, Avd Chilacos",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-avd-chilacos-2-habitaciones-2-banos-1-garajes/407-M4544322",
+            "imageLink": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_1_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 407-M4544322 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Avd Chilacos, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "407-M4544322_1",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_1_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_1_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_2",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_2_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_2_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_3",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_3_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_3_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_4",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_4_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_4_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_5",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_5_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_5_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_6",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_6_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_6_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_7",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_7_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_7_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_8",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_8_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_8_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_9",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_9_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_9_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_10",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_10_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_10_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_11",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_11_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_11_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_12",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_12_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_12_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_13",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_13_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_13_x.jpg"
+                },
+                {
+                    "id": "407-M4544322_14",
+                    "image": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_14_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M4544322/407-M4544322_14_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Baño auxiliar",
+                        "Calefacción",
+                        "Chimenea",
+                        "Cocina integral",
+                        "Zona de lavandería",
+                        "Piso 1"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Baños de servicio",
+                        "Parqueadero visitantes"
+                    ]
+                },
+                {
+                    "title": "Zonas comunes",
+                    "items": [
+                        "Zona para niños"
+                    ]
+                },
+                {
+                    "title": "Del sector",
+                    "items": [
+                        "Cerca transporte público",
+                        "Zona residencial"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 10 y 20 años",
+            "stratum": "4",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Avd chilacos, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Avd chilacos",
+                        "url": "/apartamentos/venta/chia/avd-chilacos/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Avd chilacos - Chía - 407-M4544322",
+            "descriptionSeo": "Apartamento en venta en Avd chilacos, Chía, 2 habitaciones, 2 baños, 1 garajes, Estrato 4, al mejor precio, vea las fotos. 407-M4544322",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-avd-chilacos-2-habitaciones-2-banos-1-garajes/407-M4544322",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": null,
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "342-M3798083",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 210000000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 50.65,
+            "areac": 55.75,
+            "areaPrivada": null,
+            "rooms": "3",
+            "bathrooms": "2",
+            "garages": "0",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "HACIENDA SAN JOSE",
+            "commonNeighborhood": "Chia",
+            "comment": "Excelente apartamento totalmente terminado, exterior, cuenta con 3 habitación, 2 baños, cocina a gas, sala comedor, zona de lavandería independiente, cada habitación con closet y la principal con baño privado, parqueadero comunal. El conjunto cuenta con salón comunal, gimnasio, zona para niños, bbq, parqueadero para visitantes y cancha de basquetbol",
+            "detail": {
+                "firstImage": "342-M3798083_121",
+                "adminPrice": 110000,
+                "urlDetail": "/inmueble/venta-apartamento-chia-hacienda-san-jose-3-habitaciones-2-banos/342-M3798083",
+                "micrositeId": null
+            },
+            "companyId": "3676",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "C&C INVERSIONES INMOBILIARIAS S.A.",
+            "companyAddress": "AV CRA 15 # 100-43 OFC 502",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/3676/company3676.jpeg",
+            "companyLink": "https://www.ccinversiones.com/",
+            "companySeoUrl": "c&c-inversiones-inmobiliarias-s.a.",
+            "contactPhone": "3208592278",
+            "whatsapp": "3208592278",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.052,
+                "lat": 4.863
+            },
+            "title": "Apartamento en Venta, Chia, Chía",
+            "shortTitle": "Apartamento en Venta, Chia",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-hacienda-san-jose-3-habitaciones-2-banos/342-M3798083",
+            "imageLink": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_121_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 342-M3798083 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Chia, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "342-M3798083_121",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_121_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_121_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_122",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_122_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_122_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_123",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_123_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_123_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_124",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_124_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_124_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_125",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_125_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_125_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_126",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_126_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_126_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_127",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_127_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_127_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_128",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_128_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_128_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_129",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_129_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_129_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_130",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_130_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_130_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_131",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_131_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_131_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_132",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_132_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_132_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_133",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_133_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_133_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_134",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_134_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_134_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_135",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_135_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_135_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_136",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_136_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_136_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_137",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_137_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_137_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_138",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_138_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_138_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_139",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_139_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_139_x.jpg"
+                },
+                {
+                    "id": "342-M3798083_140",
+                    "image": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_140_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/342-M3798083/342-M3798083_140_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Instalación de gas ninguno",
+                        "Closets 1",
+                        "Calentador gas",
+                        "Tipo de cocina lineal",
+                        "Tipo de comedor sala comedor",
+                        "Tipo acabado de piso otro",
+                        "Tipo de piso en alcobas otro",
+                        "Tipo de piso en comedor otro",
+                        "Tipo de piso en estudio otro",
+                        "Tipo de piso en sala otro",
+                        "Vista exterior"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Parqueadero visitantes",
+                        "Conjunto cerrado",
+                        "Vigilancia 0"
+                    ]
+                },
+                {
+                    "title": "Zonas comunes",
+                    "items": [
+                        "Gimnasio",
+                        "Salón comunal",
+                        "Zona de BBQ"
+                    ]
+                },
+                {
+                    "title": "Del sector",
+                    "items": [
+                        "Zona residencial"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 0 y 5 años",
+            "stratum": "3",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Chia, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Chia",
+                        "url": "/apartamentos/venta/chia/chia/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Chia - Chía - 342-M3798083",
+            "descriptionSeo": "Apartamento en venta en Chia, Chía, 3 habitaciones, 2 baños, Estrato 3, al mejor precio, vea las fotos. 342-M3798083",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-hacienda-san-jose-3-habitaciones-2-banos/342-M3798083",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": "6016354522",
+            "mcontactosucursalCelular1": "3142515329W",
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "9947-M4047335",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 270000000,
+            "rentPrice": 0,
+            "rentTotalPrice": 0,
+            "area": 66,
+            "areac": 66,
+            "areaPrivada": null,
+            "rooms": "2",
+            "bathrooms": "2",
+            "garages": "1",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "UB LOS GERANIOS",
+            "commonNeighborhood": "Area Urbana",
+            "comment": "Acogedor apartamento en Chía , muy bien ubicado en cuarto piso con ascensor, consta de sala comedor, con balcón, cocina integral abierta zona de lavandería dos habitaciones la principal con baño privado y closet, baño social, estudio, encortinado, un parqueadero privado, deposito, el edificio cuenta con gimnasio, salón social, bbq, vigilancia permanente, parqueadero de visitantes, excelentes vías de acceso, cerca de colegios, universidades y centros comerciales",
+            "detail": {
+                "firstImage": "9947-M4047335_1",
+                "adminPrice": 0,
+                "urlDetail": "/inmueble/venta-apartamento-chia-ub-los-geranios-2-habitaciones-2-banos-1-garajes/9947-M4047335",
+                "micrositeId": null
+            },
+            "companyId": "4820",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "KW RED Keller Williams ",
+            "companyAddress": "CRA 59 # 10-10",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/4820/company4820.jpeg",
+            "companyLink": null,
+            "companySeoUrl": "kw-red-keller-williams-",
+            "contactPhone": "3176394724",
+            "whatsapp": "3176394724",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.060005,
+                "lat": 4.8572083
+            },
+            "title": "Apartamento en Venta, Area Urbana, Chía",
+            "shortTitle": "Apartamento en Venta, Area Urbana",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-ub-los-geranios-2-habitaciones-2-banos-1-garajes/9947-M4047335",
+            "imageLink": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_1_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 9947-M4047335 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Area Urbana, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "9947-M4047335_1",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_1_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_1_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_2",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_2_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_2_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_3",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_3_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_3_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_4",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_4_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_4_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_5",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_5_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_5_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_6",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_6_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_6_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_7",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_7_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_7_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_8",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_8_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_8_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_9",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_9_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_9_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_10",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_10_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_10_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_11",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_11_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_11_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_12",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_12_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_12_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_13",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_13_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_13_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_14",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_14_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_14_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_15",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_15_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_15_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_16",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_16_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_16_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_17",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_17_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_17_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_18",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_18_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_18_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_19",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_19_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_19_x.jpg"
+                },
+                {
+                    "id": "9947-M4047335_20",
+                    "image": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_20_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/9947-M4047335/9947-M4047335_20_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Piso 1",
+                        "Tipo de comedor sala comedor"
+                    ]
+                }
+            ],
+            "builtTime": "Más de 20 años",
+            "stratum": "4",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Area urbana, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Area urbana",
+                        "url": "/apartamentos/venta/chia/area-urbana/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Area urbana - Chía - 9947-M4047335",
+            "descriptionSeo": "Apartamento en venta en Area urbana, Chía, 2 habitaciones, 2 baños, 1 garajes, Estrato 4, al mejor precio, vea las fotos. 9947-M4047335",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-ub-los-geranios-2-habitaciones-2-banos-1-garajes/9947-M4047335",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": "6023333000",
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "407-M3838657",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 259990000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 69,
+            "areac": 69,
+            "areaPrivada": null,
+            "rooms": "3",
+            "bathrooms": "2",
+            "garages": "1",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "SANTA LUCIA",
+            "commonNeighborhood": "Siata",
+            "comment": "DALA Inmobiliaria vende un acogedor apartamento en cuarto piso que te brindará la comodidad y el estilo de vida que deseas, Al ingresar a este encantador apartamento, te recibirán sala y comedor con chimenea a gas, cocina abierta, zona de ropas, dos habitaciones, habitación principal cuenta con baño privado y un espacioso closet, Además, contarás con un baño adicional y un estudio que puede convertirse en una tercera habitación según tus necesidades, incluye un parqueadero cubierto para tu comodidad y seguridad, el edificio ofrece un salón social, la ubicación es privilegiada, a solo tres cuadras de la variante Chía-Cota, lo que te brinda fácil acceso, Además, estarás cerca del centro comercial vivenza, donde encontrarás una amplia variedad y opciones de entretenimiento, No dejes pasar esta oportunidad única de adquirir este apartamento, Contacta a DALA Inmobiliaria ahora mismo y comienza a disfrutar del estilo de vida que siempre has deseado en tu nuevo hogar. cod 12",
+            "detail": {
+                "firstImage": "407-M3838657_81",
+                "adminPrice": 441000,
+                "urlDetail": "/inmueble/venta-apartamento-chia-santa-lucia-3-habitaciones-2-banos-1-garajes/407-M3838657",
+                "micrositeId": null
+            },
+            "companyId": "4257",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "DALA Inmobiliaria",
+            "companyAddress": "DALA Inmobiliaria",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/4257/company4257.jpeg",
+            "companyLink": "http://www.dalainmobiliaria.co",
+            "companySeoUrl": "dala-inmobiliaria",
+            "contactPhone": "3122053055",
+            "whatsapp": "3122053055",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.06013,
+                "lat": 4.8627524
+            },
+            "title": "Apartamento en Venta, Siata, Chía",
+            "shortTitle": "Apartamento en Venta, Siata",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-santa-lucia-3-habitaciones-2-banos-1-garajes/407-M3838657",
+            "imageLink": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_81_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 407-M3838657 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Siata, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "407-M3838657_81",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_81_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_81_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_82",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_82_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_82_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_83",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_83_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_83_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_84",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_84_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_84_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_85",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_85_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_85_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_86",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_86_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_86_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_87",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_87_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_87_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_88",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_88_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_88_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_89",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_89_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_89_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_90",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_90_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_90_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_91",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_91_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_91_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_92",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_92_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_92_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_93",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_93_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_93_x.jpg"
+                },
+                {
+                    "id": "407-M3838657_94",
+                    "image": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_94_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/407-M3838657/407-M3838657_94_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Baño auxiliar",
+                        "Chimenea",
+                        "Citófonos",
+                        "Cocina tipo americano",
+                        "Cocina integral",
+                        "Estudio o biblioteca",
+                        "Hall de alcobas",
+                        "Zona de lavandería",
+                        "Piso 4"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Ascensor",
+                        "Baños de servicio",
+                        "Circuito cerrado de TV",
+                        "Parqueadero visitantes",
+                        "Con terraza",
+                        "Vista panorámica",
+                        "Portería"
+                    ]
+                },
+                {
+                    "title": "Zonas comunes",
+                    "items": [
+                        "Salón comunal",
+                        "Zona para niños"
+                    ]
+                },
+                {
+                    "title": "Del sector",
+                    "items": [
+                        "Cerca colegios / universidades",
+                        "Cerca transporte público",
+                        "Zona residencial"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 10 y 20 años",
+            "stratum": "3",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Siata, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Siata",
+                        "url": "/apartamentos/venta/chia/siata/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Siata - Chía - 407-M3838657",
+            "descriptionSeo": "Apartamento en venta en Siata, Chía, 3 habitaciones, 2 baños, 1 garajes, Estrato 3, al mejor precio, vea las fotos. 407-M3838657",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-santa-lucia-3-habitaciones-2-banos-1-garajes/407-M3838657",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": null,
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "11369-M4170009",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 479900000,
+            "rentPrice": 0,
+            "rentTotalPrice": 0,
+            "area": 96,
+            "areac": 96,
+            "areaPrivada": null,
+            "rooms": "3",
+            "bathrooms": "2",
+            "garages": "1",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "CONJUNTO BOSQUE DE LUNA",
+            "commonNeighborhood": "Conjunto Bosque De Luna",
+            "comment": "Se vende apartamento en Chia - Bosque de luna\n\n96 M2\n\n3 habitaciones - Principal con baño privado y walking closet\n\nSala comedor\n\nEstudio\n\n1 balcón\n\nCocina abierta, amplia y equipada\n\nZona de lavandería\n\n2 baños\n\n1 parqueadero cubierto\n\nEstrato 4\n\n5 años de construido\n\nAdministración mensual de 330.000 pesos\n\nClub house\n\nPiscina Gimnasio\n\nSalón social\n\nZona infantil\n\nSeguridad 24 horas\n\nParqueadero de visitantes\n\nValor de venta 480 MM\n",
+            "detail": {
+                "firstImage": "11369-M4170009_1",
+                "adminPrice": 330000,
+                "urlDetail": "/inmueble/venta-apartamento-chia-conjunto-bosque-de-luna-3-habitaciones-2-banos-1-garajes/11369-M4170009",
+                "micrositeId": null
+            },
+            "companyId": "5335",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "INMOBILIARIA BB REAL ESTATE ",
+            "companyAddress": "Vereda Fagua Condominio Casa Luna casa # 26 Chía ",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/5335/company5335.jpeg",
+            "companyLink": null,
+            "companySeoUrl": "inmobiliaria-bb-real-estate-",
+            "contactPhone": "3002087413",
+            "whatsapp": "3002087413",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.05074,
+                "lat": 4.85598
+            },
+            "title": "Apartamento en Venta, Conjunto Bosque De Luna, Chía",
+            "shortTitle": "Apartamento en Venta, Conjunto Bosque De Luna",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-conjunto-bosque-de-luna-3-habitaciones-2-banos-1-garajes/11369-M4170009",
+            "imageLink": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_1_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: 11369-M4170009 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Conjunto Bosque De Luna, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "11369-M4170009_1",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_1_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_1_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_2",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_2_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_2_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_3",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_3_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_3_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_4",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_4_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_4_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_5",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_5_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_5_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_6",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_6_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_6_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_7",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_7_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_7_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_8",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_8_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_8_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_9",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_9_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_9_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_10",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_10_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_10_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_11",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_11_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_11_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_12",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_12_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_12_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_13",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_13_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_13_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_14",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_14_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_14_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_15",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_15_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_15_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_16",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_16_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_16_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_17",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_17_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_17_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_18",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_18_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_18_x.jpg"
+                },
+                {
+                    "id": "11369-M4170009_19",
+                    "image": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_19_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/11369-M4170009/11369-M4170009_19_x.jpg"
+                }
+            ],
+            "featured": [
+                {
+                    "title": "Interiores",
+                    "items": [
+                        "Apto para niños",
+                        "Baño auxiliar",
+                        "Calefacción",
+                        "Citófonos",
+                        "Cocina tipo americano",
+                        "Cocina integral",
+                        "Estudio o biblioteca",
+                        "Parqueadero cubierto",
+                        "Hall de alcobas",
+                        "Sauna / turco",
+                        "Vigilancia",
+                        "Zona de lavandería",
+                        "Instalación de gas natural",
+                        "Piso 3",
+                        "Se permite fumar",
+                        "Calentador gas",
+                        "Tipo de cocina abierta",
+                        "Tipo de comedor sala comedor",
+                        "Tipo de estufa gas",
+                        "Tipo de parqueadero propio",
+                        "Vista exterior"
+                    ]
+                },
+                {
+                    "title": "Exteriores",
+                    "items": [
+                        "Area Terraza/Balcón 10 m²",
+                        "Acceso para discapacitados",
+                        "Baños de servicio",
+                        "Circuito cerrado de TV",
+                        "Parqueadero visitantes",
+                        "Piscina",
+                        "Vista panorámica",
+                        "Conjunto cerrado",
+                        "Portería",
+                        "Terraza/Balcón balcón",
+                        "Vigilancia 24hrs"
+                    ]
+                },
+                {
+                    "title": "Zonas comunes",
+                    "items": [
+                        "Cancha(s) de basket",
+                        "Cancha(s) de fútbol",
+                        "Gimnasio",
+                        "Salón comunal",
+                        "Zona de BBQ",
+                        "Zona para niños",
+                        "Zonas verdes"
+                    ]
+                },
+                {
+                    "title": "Del sector",
+                    "items": [
+                        "Cerca centros comerciales",
+                        "Cerca colegios / universidades",
+                        "Cerca parques",
+                        "Cerca supermercados",
+                        "Cerca transporte público",
+                        "Zona residencial"
+                    ]
+                }
+            ],
+            "builtTime": "Entre 0 y 5 años",
+            "stratum": "4",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Conjunto bosque de luna, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Conjunto bosque de luna",
+                        "url": "/apartamentos/venta/chia/conjunto-bosque-de-luna/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Conjunto bosque de luna - Chía - 11369-M4170009",
+            "descriptionSeo": "Apartamento en venta en Conjunto bosque de luna, Chía, 3 habitaciones, 2 baños, 1 garajes, Estrato 4, al mejor precio, vea las fotos. 11369-M4170009",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-conjunto-bosque-de-luna-3-habitaciones-2-banos-1-garajes/11369-M4170009",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": null,
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    },
+    {
+        "data": {
+            "propertyId": "RV-M4288792",
+            "publicationId": null,
+            "propertyType": {
+                "id": "1",
+                "nombre": "Apartamento"
+            },
+            "businessType": "venta",
+            "businessTypeId": "1",
+            "publicationStatus": "S",
+            "salePrice": 175000000,
+            "rentPrice": null,
+            "rentTotalPrice": 0,
+            "area": 45.08,
+            "areac": 45.08,
+            "areaPrivada": null,
+            "rooms": "2",
+            "bathrooms": "2",
+            "garages": "0",
+            "city": {
+                "id": "65",
+                "nombre": "Chía"
+            },
+            "zone": null,
+            "sector": null,
+            "neighborhood": "EL PARQUE",
+            "commonNeighborhood": "Chia",
+            "comment": "Gran Oportunidad Apartamento en Obra Gris para Acabados a Gusto Piso 1 Ascensor Terraza Zona BBQ Buenas Vías de Acceso Contacto AZAEL SANCHEZ",
+            "detail": {
+                "firstImage": "RV-M4288792_239",
+                "adminPrice": null,
+                "urlDetail": "/inmueble/venta-apartamento-chia-el-parque-2-habitaciones-2-banos/RV-M4288792",
+                "micrositeId": null
+            },
+            "companyId": "2156",
+            "projectName": null,
+            "salesRoomAddress": null,
+            "salesRoomSchedule": [],
+            "companyName": "RV INMOBILIARIA",
+            "companyAddress": "Carrera 15 # 86-31",
+            "companyImage": "https://www.metrocuadrado.com/files/logos/company/2156/company2156.jpeg",
+            "companyLink": "http://www.metrocuadrado.com/web/micrositios/419655/index.html",
+            "companySeoUrl": "rv-inmobiliaria",
+            "contactPhone": "3115737472",
+            "whatsapp": "3115737472",
+            "propertyState": "Usado",
+            "coordinates": {
+                "lon": -74.059,
+                "lat": 4.856
+            },
+            "title": "Apartamento en Venta, Chia, Chía",
+            "shortTitle": "Apartamento en Venta, Chia",
+            "subtitle": "Chía",
+            "link": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-el-parque-2-habitaciones-2-banos/RV-M4288792",
+            "imageLink": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_239_h.jpg",
+            "whatsappMessage": "Hola, Estoy interesado en anuncio con ID: RV-M4288792 que encontre en www.metrocuadrado.com  - Apartamento en Venta, Chia, Chía y quiero  más información - ",
+            "images": [
+                {
+                    "id": "RV-M4288792_239",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_239_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_239_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_240",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_240_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_240_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_241",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_241_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_241_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_242",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_242_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_242_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_243",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_243_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_243_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_244",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_244_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_244_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_245",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_245_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_245_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_246",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_246_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_246_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_247",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_247_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_247_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_248",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_248_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_248_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_249",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_249_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_249_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_250",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_250_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_250_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_251",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_251_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_251_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_252",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_252_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_252_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_253",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_253_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_253_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_254",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_254_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_254_x.jpg"
+                },
+                {
+                    "id": "RV-M4288792_255",
+                    "image": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_255_h.jpg",
+                    "imageMobile": "https://multimedia.metrocuadrado.com/RV-M4288792/RV-M4288792_255_x.jpg"
+                }
+            ],
+            "featured": [],
+            "builtTime": "Entre 0 y 5 años",
+            "stratum": "3",
+            "isOcasional": false,
+            "isProject": false,
+            "isUsed": true,
+            "isSale": true,
+            "isLease": false,
+            "priceFrom": null,
+            "priceUp": null,
+            "fee": null,
+            "areacFrom": null,
+            "areacUp": null,
+            "areaFrom": null,
+            "areaUp": null,
+            "video": null,
+            "deliverDate": null,
+            "breadcrumb": {
+                "h1": "Apartamentos en Venta en Chia, Chía",
+                "links": [
+                    {
+                        "text": "Apartamentos",
+                        "url": "/apartamentos/"
+                    },
+                    {
+                        "text": "Venta",
+                        "url": "/apartamentos/venta/"
+                    },
+                    {
+                        "text": "Chía",
+                        "url": "/apartamentos/venta/chia/"
+                    },
+                    {
+                        "text": "Chia",
+                        "url": "/apartamentos/venta/chia/chia/"
+                    }
+                ]
+            },
+            "backUrl": "/apartamentos/venta/",
+            "titleSeo": "Venta de Apartamento en Chia - Chía - RV-M4288792",
+            "descriptionSeo": "Apartamento en venta en Chia, Chía, 2 habitaciones, 2 baños, Estrato 3, al mejor precio, vea las fotos. RV-M4288792",
+            "linkSeo": "https://www.metrocuadrado.com/inmueble/venta-apartamento-chia-el-parque-2-habitaciones-2-banos/RV-M4288792",
+            "roomsFrom": null,
+            "roomsTo": null,
+            "bathroomsFrom": null,
+            "bathroomsTo": null,
+            "localPhone": "6012573700",
+            "mcontactosucursalCelular1": null,
+            "campaign": null
+        }
+    }
+]
